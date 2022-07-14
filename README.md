@@ -1,5 +1,5 @@
-# WBS CODING SCHOOL Full-Stack Web & App Development Bootcamp
-# WEEK 1/PROJECT TAJAM
+## WBS CODING SCHOOL Full-Stack Web & App Development Bootcamp
+## WEEK 1/PROJECT TAJAM
 
 
  started 04.06.2022  
@@ -8,7 +8,7 @@
  
  github link: https://github.com/onureredo/tajam
 
-# started 04.06.2022
+## started 04.06.2022
 check log.txt
 
-# finished .06.2022
+## finished .06.2022
