@@ -8,35 +8,7 @@
  
  github link: https://github.com/onureredo/tajam
 
-# 04.06.2022
-created github repository
-created basic structure
-edited index.html
-edited style.css
-edited design and images
-committed
-
-# 05.06.2022
-added navbar
-added added hero section
-added ourstory section
-added watch section
-added team section
-added contact-client section
-added sections into style.css
-committed
-
-# Missing Content
-team, Contact, Footer
-
-
-# 06.05.2022
-edited style.css
-
-
-
-
-
-
+# started 04.06.2022
+check log.txt
 
 # finished .06.2022
