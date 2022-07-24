@@ -7,4 +7,4 @@
  trello link: https://trello.com/b/fUgeLbEe/tajam 
  github link: https://github.com/onureredo/tajam
 
-#### started 04.06.2022
+
